@@ -2,3 +2,6 @@ Hi, I’m Tejesh M, a university student at REVA University and an aspiring deve
 ## Skills
 
 I have basic knowledge of C and Python, along with foundational coding and problem-solving skills. I am currently improving my programming abilities through regular practice and small projects.
+## Certifications
+
+I have completed certifications in Python from IBM SkillsBuild and Scaler.
